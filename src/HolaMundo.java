@@ -4,8 +4,10 @@ public class HolaMundo {
     public static void main(String args[]) {
         var numeroentero = 10;
         System.out.println("Numero entero = "+numeroentero);
-
+        System.out.println("Probando");
     }
+
 }
 
-//Hola se hizo cambio 
+//Hola se hizo cambio
+
