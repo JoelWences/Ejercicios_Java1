@@ -1,3 +1,5 @@
+package Seccion3PrimitiveTypes;
+
 public class Variables {
     public static void main(String args []){
         int miVariableEntera = 10;
