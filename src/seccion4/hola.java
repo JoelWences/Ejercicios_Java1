@@ -15,7 +15,7 @@ public class hola {
         System.out.println("Vista al Mar: " + vistaMar);
 
         System.out.println();
-        
+
         nombreCliente = "Carlos Sebastian";
         diasdeEstancia = 2;
         tarifaDiaria = 20.50;
