@@ -21,7 +21,7 @@ public class metodosDeCadena {
         System.out.println("minuscula = " + cadena1.toLowerCase());
 
         //Eliminar espacion al inicio y al final
-        var cadena2 = "  Joel Bejar Espinoza  ";
+        var cadena2 = "Joel Bejar Espinoza";
         System.out.println("Cadena con espacios =" +cadena2);
         System.out.println("Cadena sin espacios =" + cadena2.trim());
 
